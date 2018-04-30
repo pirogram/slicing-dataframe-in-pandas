@@ -1,0 +1,8 @@
+code: slicing-dataframe-in-pandas
+title: Slicing DataFrame in Pandas
+description: Pandas provides a lot of flexibility in slicing and dicing DataFrames. This module covers the fundamentals, provides examples and a few exercises for practise.
+version: 0.1.0
+license: CC-BY-SA
+author_name: Manas Garg
+author_url: http://www.fuzzysparkle.com
+status: draft
